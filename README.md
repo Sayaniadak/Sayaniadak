@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sayani Adak</h1>
+<h3 align="center">
+Computer Science Student | AIoT Research Enthusiast | Cybersecurity Learner
+</h3>
 
-<!--
-**Sayaniadak/Sayaniadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building intelligent systems, exploring cybersecurity, and turning ideas into real-world solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+🎓 Computer Science student passionate about solving real-world problems through technology.
+
+🔬 Interested in Artificial Intelligence of Things (AIoT), cybersecurity, and smart systems.
+
+💡 I enjoy transforming research ideas into practical projects.
+
+📚 Currently exploring:
+- AIoT Security
+- Cybersecurity
+- Machine Learning
+- Web Development
+- Smart Monitoring Systems
+
+---
+
+## 🚀 Current Focus
+
+- Research in AIoT security frameworks
+- Cybersecurity projects
+- Full-stack web development
+- Technical presentations and research papers
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python • Java • C • JavaScript • C++ 
+
+### Web Technologies
+HTML • CSS • JavaScript
+
+### Databases
+MySQL • MongoDB
+
+### Areas of Interest
+AIoT • Artificial Intelligence • Machine Learning • IoT
+
+---
+
+## 🏆 Achievements
+
+🏅 Internal SIH Finalist
+
+💻 Multiple academic and personal projects
+
+
+## 💭 My Philosophy
+
+> Technology becomes meaningful when it solves real problems and improves lives.
+
+
+⭐ "Learning continuously, building consistently, and growing through every project."
