@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayani Adak</h1>
 <h3 align="center">
-Computer Science Student | AIoT Research Enthusiast | Cybersecurity Learner
+Computer Science Student | AIoT Research Enthusiast | AI ML Enthusiast
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Building intelligent systems, exploring cybersecurity, and turning ideas into re
 
 📚 Currently exploring:
 - AIoT Security
-- Cybersecurity
+- Artificial Intelligence
 - Machine Learning
 - Web Development
 - Smart Monitoring Systems
@@ -28,7 +28,7 @@ Building intelligent systems, exploring cybersecurity, and turning ideas into re
 
 ## 🚀 Current Focus
 
-- Research in AIoT security frameworks
+- Research in Artificial frameworks
 - Cybersecurity projects
 - Full-stack web development
 - Technical presentations and research papers
