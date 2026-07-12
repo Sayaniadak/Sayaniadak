@@ -23,6 +23,7 @@ Building intelligent systems, exploring cybersecurity, and turning ideas into re
 - Machine Learning
 - Web Development
 - Smart Monitoring Systems
+- Quantum Computing
 
 ---
 
