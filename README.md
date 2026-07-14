@@ -64,6 +64,10 @@ AIoT • Artificial Intelligence • Machine Learning • IoT • Quantum Comput
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
 ## 🏆 Achievements
 
 🏅 Internal SIH Finalist
