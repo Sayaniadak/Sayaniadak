@@ -26,7 +26,6 @@ Building intelligent systems, exploring cybersecurity, and turning ideas into re
 - Quantum Computing
 
 ---
-![Stars](https://img.shields.io/github/stars/Sayaniadak/REPO)
 
 ## 🚀 Current Focus
 
